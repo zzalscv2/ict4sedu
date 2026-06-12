@@ -39,5 +39,17 @@ A collection of tools, frameworks, and guidelines for integrating sustainability
 
 ---
 
-*Last updated: Mai 2026 · Contact: [SIG Sustainability @ IREB](https://ireb.org/en/community/special-interest-group/sig-sustainability)*
+## 🧰 Software Tools for Measuring Technical Sustainability
+
+- **[Codescene](https://globemallow.io](https://codescene.io/)** – a software engineering platform that combines code quality metrics with behavioral analysis to help teams prioritise technical debt and risks.
+- **[DV8](https://archdia.com/)** – software architecture analysis.
+- **[NDepend](https://www.ndepend.com/)** - a static analysis tool for .NET projects that helps developers manage code quality.
+- **[sonarGraph](https://www.hello2morrow.com/)** - a static code analyser that helps monitor software systems for technical quality and enforce architectural rules throughout the development process.
+- **[SonarQube Cloud](https://www.sonarsource.com/products/sonarqube/cloud/)** - a cloud-based static analysis tool designed for continuous integration and continuous delivery (CI/CD) workflows, helping developers identify and fix bugs, vulnerabilities, and code quality issues in real time.
+- **[TeamScale](https://teamscale.com/)** - a software quality platform that helps developers improve code quality, manage technical debt.
+- **[Understand](https://scitools.com/)** - a customizable integrated development environment (IDE) designed for static code analysis.
+
+---
+
+*Last updated: June 2026 · Contact: [SIG Sustainability @ IREB](https://ireb.org/en/community/special-interest-group/sig-sustainability)*
 

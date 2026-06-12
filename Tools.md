@@ -41,7 +41,7 @@ A collection of tools, frameworks, and guidelines for integrating sustainability
 
 ## 🧰 Software Tools for Measuring Technical Sustainability
 
-- **[Codescene](https://globemallow.io](https://codescene.io/)** – a software engineering platform that combines code quality metrics with behavioral analysis to help teams prioritise technical debt and risks.
+- **[Codescene](https://codescene.io/)** – a software engineering platform that combines code quality metrics with behavioral analysis to help teams prioritise technical debt and risks.
 - **[DV8](https://archdia.com/)** – software architecture analysis.
 - **[NDepend](https://www.ndepend.com/)** - a static analysis tool for .NET projects that helps developers manage code quality.
 - **[sonarGraph](https://www.hello2morrow.com/)** - a static code analyser that helps monitor software systems for technical quality and enforce architectural rules throughout the development process.
